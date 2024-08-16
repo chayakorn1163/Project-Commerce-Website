@@ -1,4 +1,4 @@
-        import heroImage from "../../public/poto/scandinavian-interior-mockup-wall-decal-background 1.png"; // Correct path to the image
+        import heroImage from "../../../public/poto/scandinavian-interior-mockup-wall-decal-background 1.png"; // Correct path to the image
 
         const Hero1 = () => {
         return (

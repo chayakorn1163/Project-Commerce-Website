@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
         import React from "react";
-        import Room1 from "../../public/poto/Roomlnspiration/Rectangle 24.png";
-        import Room2 from "../../public/poto/Roomlnspiration/Rectangle 25 (1).png";
+        import Room1 from "../../../public/poto/Roomlnspiration/Rectangle 24.png";
+        import Room2 from "../../../public/poto/Roomlnspiration/Rectangle 25 (1).png";
 
         const RoomInspiration = () => {
         return (

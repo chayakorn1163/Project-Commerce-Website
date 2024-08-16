@@ -1,6 +1,6 @@
-        import imageLivingRoom from "../../public/poto/Image-living room (1).png";
-        import imageDining from "../../public/poto/Mask Group (2).png";
-        import imageBedroom from "../../public/poto/Mask Group (3).png";
+        import imageLivingRoom from "../../../public/poto/Image-living room (1).png";
+        import imageDining from "../../../public/poto/Mask Group (2).png";
+        import imageBedroom from "../../../public/poto/Mask Group (3).png";
 
         const CategoryHighlights = () => {
         return (

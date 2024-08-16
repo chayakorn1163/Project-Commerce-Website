@@ -1,13 +1,13 @@
 /* eslint-disable no-unused-vars */
     import React from "react";
-    import RoomFurniture1 from "../../public/poto/FuniroFurniture/Rectangle 39 (1).png";
-    import RoomFurniture2 from "../../public/poto/FuniroFurniture/Rectangle 40.png";
-    import RoomFurniture3 from "../../public/poto/FuniroFurniture/Rectangle 41.png";
-    import RoomFurniture4 from "../../public/poto/FuniroFurniture/Rectangle 43.png";
-    import RoomFurniture5 from "../../public/poto/FuniroFurniture/Rectangle 44.png";
-    import RoomFurniture6 from "../../public/poto/FuniroFurniture/Rectangle 45.png";
-    import RoomFurniture7 from "../../public/poto/FuniroFurniture/Rectangle 37.png";
-    import RoomFurniture8 from "../../public/poto/FuniroFurniture/Rectangle 38.png";
+    import RoomFurniture1 from "../../../public/poto/FuniroFurniture/Rectangle 39 (1).png";
+    import RoomFurniture2 from "../../../public/poto/FuniroFurniture/Rectangle 40.png";
+    import RoomFurniture3 from "../../../public/poto/FuniroFurniture/Rectangle 41.png";
+    import RoomFurniture4 from "../../../public/poto/FuniroFurniture/Rectangle 43.png";
+    import RoomFurniture5 from "../../../public/poto/FuniroFurniture/Rectangle 44.png";
+    import RoomFurniture6 from "../../../public/poto/FuniroFurniture/Rectangle 45.png";
+    import RoomFurniture7 from "../../../public/poto/FuniroFurniture/Rectangle 37.png";
+    import RoomFurniture8 from "../../../public/poto/FuniroFurniture/Rectangle 38.png";
 
     const FuniroFurniture = () => {
     return (

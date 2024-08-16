@@ -1,14 +1,14 @@
     // eslint-disable-next-line no-unused-vars
     import React from "react";
-    import ProductCard from "./ProductCard";
-    import Syltherine from "../../public/poto/product hero/Images.png"
-    import Lolito from "../../public/poto/product hero/Images (1).png"
-    import Respira from "../../public/poto/product hero/Images (3).png"
-    import Grifo from "../../public/poto/product hero/Images (4).png"
-    import Muggo from "../../public/poto/product hero/Images (5).png"
-    import Pingky from "../../public/poto/product hero/Images (2).png"
-    import Potty from "../../public/poto/product hero/image 7.png"
-    import Chair from "../../public/poto/product hero/image 8.png"
+    import ProductCard from "../main/ProductCard";
+    import Syltherine from "../../../public/poto/product hero/image.png"
+    import Lolito from "../../../public/poto/product hero/Images (1).png";
+    import Respira from "../../../public/poto/product hero/Images (2).png";
+    import Grifo from "../../../public/poto/product hero/Images (3).png";
+    import Muggo from "../../../public/poto/product hero/Images (4).png";
+    import Pingky from "../../../public/poto/product hero/Images (5).png";
+    import Potty from "../../../public/poto/product hero/image 7.png"
+    import Chair from "../../../public/poto/product hero/image 8.png"
 
 
 
