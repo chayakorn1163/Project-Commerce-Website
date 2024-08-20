@@ -1,5 +1,8 @@
 import './App.css'
 import Navbar from './Components/main/Navbar';
+import HeroBlog from './Components/Blog/Blog';
+/*import ProductDetail from './Components/PageCategory/addcategory';
+
 import Category from './Components/main/Category';
 import CategoryHighlights from './Components/main/CategoryHiglights';
 import Hero1 from './Components/main/็้Hero1'
@@ -7,11 +10,23 @@ import Footer from './Components/main/Footer';
 import RoomInspiration from './Components/main/RoomInspiration';
 import FuniroFurniture from './Components/main/FuniroFurniture';
 import ProductCard from './Components/main/ProductCard';
-import Heroshop from './Components/Pageshop/mainshop';
-
+import Heroshop from './Components/Pageshop/mainshop';*/
 
 
 function App() {
+  return (
+    <div>
+      <Navbar />
+      <HeroBlog/>
+      
+     
+    </div>
+  );
+}
+
+export default App;
+
+/*function App() {
   
 
   return (
@@ -30,4 +45,4 @@ function App() {
   )
 }
 
-export default App
+export default App*/
